@@ -1,5 +1,3 @@
-# Research-budget-allocation
-
 # Research Grant Allocation Optimizer
 
 A university research funding optimization system using the Fractional Knapsack Algorithm.
